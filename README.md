@@ -1,7 +1,9 @@
 # Weather-Dashboard
 
 
-css/images/Screen Shot 2021-08-01 at 11.22.15 PM.png
+
+![Screen Shot 2021-08-01 at 11 22 15 PM](https://user-images.githubusercontent.com/58565920/127802684-ae570bf8-2cc9-4ae4-858d-996618785710.png)
+
 
 ## Description
 GIVEN a weather dashboard with form inputs
