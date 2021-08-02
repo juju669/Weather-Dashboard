@@ -1,5 +1,7 @@
 # Weather-Dashboard
 
+![Screen Shot 2021-08-01 at 11 22 15 PM](https://user-images.githubusercontent.com/58565920/127800994-67e4eb2b-b714-4d75-8e73-4716f7b99380.png)
+
 
 ## Description
 GIVEN a weather dashboard with form inputs
@@ -22,3 +24,4 @@ THEN I am again presented with current and future conditions for that city
 
 
 # Web site link
+https://juju669.github.io/Weather-Dashboard/
