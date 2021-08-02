@@ -8,7 +8,7 @@ if (!cities) {
 console.log(cities)
 // on button click - fetch info based on text entry
 function searchCoordsFunction() {
-  var yekipa = "f9e3ef72f0eaeee2c3f8a3b8951dd135";
+  var yekipa = "4f898323031094ae2db84c2cde3aa1b7";
 
   let cityName = document.querySelector("#search input").value;
 
