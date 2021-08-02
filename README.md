@@ -21,7 +21,7 @@ THEN I am again presented with current and future conditions for that city
 # Repository link
 
 
-
+https://github.com/juju669/Weather-Dashboard.git
 
 # Web site link
 https://juju669.github.io/Weather-Dashboard/
